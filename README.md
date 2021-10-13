@@ -1,8 +1,4 @@
-Olá, eu sou a Ingrid!
-
-- 🔭 Atualmente trabalho como estagiária de desenvolvimento na área de CRM
-- 🌱 Estou no 2º semestre de Análise e Desenvolvimento de Sistemas
-- 😄 Pronouns: ela/dela
+## Olá, eu sou a Ingrid!
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -22,4 +18,5 @@ Olá, eu sou a Ingrid!
 <div>
   <a href = "mailto:ingrid.camargopr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ingrid-de-camargo-pereira-1b95b619b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
 </div>
