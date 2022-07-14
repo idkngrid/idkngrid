@@ -1,4 +1,8 @@
-## Olá, eu sou a Ingrid!
+## Hi there, I'm Ingrid!
+
++ :computer: I work as a Web Developer Assistant, focusing mainly in front-end development
++ :mortar_board: I'm in my last year of Systems Developement
++ :dart: :pushpin: I'm a Javascript Stack lover, aiming to become a Typscript, React and Node.js specialist
 
 <div align="center">
   <a href="https://github.com/idkngrid">
